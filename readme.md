@@ -1,4 +1,4 @@
-# Unit 5, Part 3: Music Collection
+f# Unit 5, Part 3: Music Collection
 
 This unit, we'll be exploring objects by creating an application to help maintain a record collection. We will be creating objects using `object literal` syntax.
 
@@ -27,6 +27,9 @@ Update the `3-music-collection.js` file to do the following:
   - Add 6 albums to your collection. Aim to have a mix of both same and different artists and published years. (Feel free to share your musical interests, or make stuff up. Totally fine either way.)
   - Console.log each album as added using the returned value.
   - After all are added, console.log the `collection` array.
+
+  
+
 
 - Add a function named `showCollection`. This function should:
   - Take in an array parameter. (This allows it to be reused to show any collection, like the results from the find or search.)
